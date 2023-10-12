@@ -1,0 +1,10 @@
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\bin\Debug\BLL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\bin\Debug\BLL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\bin\Debug\DAL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\bin\Debug\DAL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\obj\Debug\BLL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\obj\Debug\BLL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\BLL\bin\Debug\DAL.dll.config

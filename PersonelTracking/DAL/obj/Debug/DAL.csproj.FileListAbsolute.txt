@@ -1,0 +1,7 @@
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\bin\Debug\DAL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\bin\Debug\DAL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\obj\Debug\DAL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\obj\Debug\DAL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\DAL\bin\Debug\DAL.dll.config

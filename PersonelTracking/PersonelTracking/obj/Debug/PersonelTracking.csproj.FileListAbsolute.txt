@@ -1,0 +1,60 @@
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.exe.config
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.exe
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\BLL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\DAL.dll
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\BLL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\DAL.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.AssemblyReference.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmLogin.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.Properties.Resources.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.GenerateResource.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.CoreCompileInputs.cache
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.CopyComplete
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.exe
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.pdb
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmDepartment.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmDepartmentList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmEmployee.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmEmployeeList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.frmMain.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPosition.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPositionList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmTaskList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPermission.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPermissionList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmSalary.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmSalaryList.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmTask.resources
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\bin\Debug\DAL.dll.config
+C:\LEARNING\Training Sessions\C# Course 01\C#01 Lessons\C110_PROJECT_01\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.ResolveComReference.cache
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.exe.config
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.exe
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\PersonelTracking.pdb
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\BLL.dll
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\DAL.dll
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\BLL.pdb
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\DAL.pdb
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\bin\Debug\DAL.dll.config
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.AssemblyReference.cache
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.ResolveComReference.cache
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmDepartment.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmDepartmentList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmEmployee.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmEmployeeList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmLogin.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.frmMain.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPermission.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPermissionList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPosition.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmPositionList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmSalary.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmSalaryList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmTask.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.FrmTaskList.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.Properties.Resources.resources
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.GenerateResource.cache
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.CoreCompileInputs.cache
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.csproj.CopyComplete
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.exe
+C:\LEARNING\Training Sessions\GitHubCourses\GH001_Learning_Project_001\Learning_Project_001\PersonelTracking\PersonelTracking\obj\Debug\PersonelTracking.pdb

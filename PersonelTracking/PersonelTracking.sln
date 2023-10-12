@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelTracking", "PersonelTracking\PersonelTracking.csproj", "{F0B64682-A1B9-49E3-95E9-ACB197A9DDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{42F43A5C-3994-4F76-9375-3A662FF52C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2308EC3D-7CCA-464B-908E-5C2C373BC71F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0B64682-A1B9-49E3-95E9-ACB197A9DDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B64682-A1B9-49E3-95E9-ACB197A9DDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B64682-A1B9-49E3-95E9-ACB197A9DDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B64682-A1B9-49E3-95E9-ACB197A9DDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F43A5C-3994-4F76-9375-3A662FF52C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F43A5C-3994-4F76-9375-3A662FF52C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F43A5C-3994-4F76-9375-3A662FF52C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F43A5C-3994-4F76-9375-3A662FF52C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2308EC3D-7CCA-464B-908E-5C2C373BC71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2308EC3D-7CCA-464B-908E-5C2C373BC71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2308EC3D-7CCA-464B-908E-5C2C373BC71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2308EC3D-7CCA-464B-908E-5C2C373BC71F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F971D9-D880-499A-8C2C-C39F229A889B}
+	EndGlobalSection
+EndGlobal
